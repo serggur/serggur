@@ -1,0 +1,6 @@
+19:55:42.761 -> Scanning (SDA : SCL) - GPIO13 : GPIO14 - I2C device found at address 0x3C  !
+19:55:58.117 -> Scanning (SDA : SCL) - GPIO4 : GPIO5 - I2C device found at address 0x76  !
+
+
+I2C bus pins on ESP12E/F boards are GPIO5 - SCL and GPIO4 - SDA. 
+OLED screen using GPIO13 - SDA (Wemos D7) and GPIO14 - SCL (Wemos D5) pins
